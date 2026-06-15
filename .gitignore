@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# node_modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+
+# Android
+/android/app/debug
+/android/app/release
+.gradle
+build/
+*.apk
+
+# iOS
+/ios/Pods
+/ios/Podfile.lock
+build/
+
+# Misc
+.DS_Store
